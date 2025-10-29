@@ -34,7 +34,7 @@
 
 ## 📫 Contact
 
-- [LinkedIn](https://www.linkedin.com/in/mathieu-barleon-9110082bb/) 
+- [LinkedIn](https://www.linkedin.com/in/mbarleon/) 
 - Email: mathieu.barleon@epitech.eu
 
 ---
